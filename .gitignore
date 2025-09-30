@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit cache and log files
+.streamlit/
+*.log
+
+# Python environment variables
+*.env
+*.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FAISS index or other generated files
+NIMNVIDIA/faiss_index/
